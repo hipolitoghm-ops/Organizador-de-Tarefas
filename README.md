@@ -33,11 +33,11 @@ conforme sua necessidade:
                        MENU PRINCIPAL                       
 ------------------------------------------------------------
 
-1 - Adicionar Tarefa
-2 - Listar Tarefas
-3 - Editar Tarefa
-4 - Remover Tarefa
-5 - Sair
+- 1 - Adicionar Tarefa
+- 2 - Listar Tarefas
+- 3 - Editar Tarefa
+- 4 - Remover Tarefa
+- 5 - Sair
 
 
 ## Sobre o projeto
